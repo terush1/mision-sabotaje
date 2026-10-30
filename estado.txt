@@ -1,0 +1,3 @@
+SISTEMA_ACTIVO = EN_MANTENIMIENTOE
+
+hola y adios te quiere tu compa pesito
