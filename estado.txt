@@ -1,3 +1,4 @@
-SISTEMA_ACTIVO = EN_MANTENIMIENTOE
+SISTEMA_ACTIVO = EN_MANTENIMIENTO
 
-hola y adios te quiere tu compa pesito
+hola y adios te quiere tu compa pesito 
+
